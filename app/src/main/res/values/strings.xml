@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DeleteSentSMSs</string>
+    <string name="activo">ACTIVO</string>
 </resources>
